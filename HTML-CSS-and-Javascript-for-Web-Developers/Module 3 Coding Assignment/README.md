@@ -6,7 +6,7 @@
 >🔶 <a href="https://vidigal-code.github.io/Module-3-Coding-Assignment/">Click here to test</a>
 >
 
-<img src="">
+<img src="https://github.com/Vidigal-code/Coursera-Johns-Hopkins-University/blob/master/HTML-CSS-and-Javascript-for-Web-Developers/Module%203%20Coding%20Assignment/Lib/IMG/Module%203%20Coding%20Assignment.png">
 
 
 
